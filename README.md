@@ -1,5 +1,6 @@
 ## Título
 ### Subtítulo
+This site was built using [GitHub Pages](https://pages.github.com/).
 Este es un ejemplo de texto que da entrada a una lista genérica de elementos:
 
 - Elemento 1
