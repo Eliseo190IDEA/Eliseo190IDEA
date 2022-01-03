@@ -1,5 +1,5 @@
-## ❤ Hola Bienvenido
-### My name is Eliseo190, I'm from Mexico and I'm a java developer.
+## ¡Hola! wave
+### Hola. Me llamo Eliseo. Soy de mexico centrado en Java.
 
 Currently working for @HypexMcNW as a Dev
 I have a YouTube channel (in Spanish) about SRE technologies like Docker and Kubernetes.
