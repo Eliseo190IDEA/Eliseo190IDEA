@@ -2,21 +2,8 @@
 ### Hola. Me llamo Eliseo. Soy de mexico centrado en Java.
 
 ## Estadísticas
-<div align="center">
-  <a href="https://github.com/Eliseo190IDEA">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=rafaballerini&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafaballerini&layout=compact&langs_count=7&theme=dracula"/>
-</div>
-<div style="display: inline_block"><br>
-  <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Rafa-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
-  <img align="center" alt="Rafa-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-  <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Rafa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="Rafa-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
-  <img align="right" alt="Rafa-pic" height="150" style="border-radius:50px;" src="https://cdn.discordapp.com/avatars/877811473815056444/ee8e57ac0dd58967a9569944defbaa3f.webp?size=1024">
-</div>
+![](https://github-readme-stats-eugeniodevv.vercel.app/api?username=Eliseo190IDEA&show_icons=true&theme=dark&count_private=true)
+![](https://github-readme-stats-eugeniodevv.vercel.app/api/top-langs/?username=Eliseo190IDEA&langs_count=5&theme=dark)
   
   ##
  
@@ -30,3 +17,11 @@
   
   ## Mi Discord
  
+<a href="https://discord.com/users/877811473815056444">
+  <img src="https://lanyard-profile-readme.vercel.app/api/877811473815056444?animated=true" align="center" height="205">
+</a>
+<br>
+
+- 🔭 Estoy trabajando actualmente en [HypexMc](https://hypexmc.net).
+- 💻 Soy administrador de sistemas en [HSecurity](https://hsecurity.net).
+- 📫 Cómo contactarme: [@Eliseo190](https://twitter.com/Eliseo190) o Eliseo190#0001.
